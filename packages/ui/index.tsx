@@ -1,5 +1,6 @@
-import * as React from "react";
+import * as React from 'react';
 
 // component exports
-export * from "./Button";
-export * from "./Header";
+export * from './components/Button';
+export * from './screens/HomeScreen';
+export * from './screens/AboutScreen';
